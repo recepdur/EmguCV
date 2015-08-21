@@ -9,8 +9,5 @@ Belirtmek istediğim bir konu var. OpenCV’de kullanılan fonksiyonlar ile Emgu
 
 EmguCV ve OpenCV dllerini <a href="http://recepdur.com/wp-content/uploads/2014/11/emgucv-dll.zip">burdan </a>indirebilirsiniz. Ancak OpenCV ve EmguCV sürekli güncellendiği için dlllerin yeni sürümlerini takip etmenizi öneririm.
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.2/gist-embed.min.js"></script>
-<code data-gist-id="c7f8528bfe7e54ed1bcc"></code>
-
 Kaynak:
 <a href="http://recepdur.com/emgu-cv/">recepdur.com/emgu-cv</a>

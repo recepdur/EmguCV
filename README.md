@@ -7,7 +7,3 @@ Emgu CV ile proje geliştirirken bazı ayarlamalar yapmak gerekir. Öncelikle Em
 
 Belirtmek istediğim bir konu var. OpenCV’de kullanılan fonksiyonlar ile EmguCV’de kullanılanlar arasıda biraz isim farklılıkları olabilir ancak temelde benzerdirler.
 
-EmguCV ve OpenCV dllerini <a href="http://recepdur.com/wp-content/uploads/2014/11/emgucv-dll.zip">burdan </a>indirebilirsiniz. Ancak OpenCV ve EmguCV sürekli güncellendiği için dlllerin yeni sürümlerini takip etmenizi öneririm.
-
-Kaynak:
-<a href="http://recepdur.com/emgu-cv/">recepdur.com/emgu-cv</a>
